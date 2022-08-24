@@ -2,9 +2,9 @@
 A selection of projects I have performed in Java that showcase different topics.
 # Project List
 ## Merchandise Inventory System
-•	Developed a sample of a merchandising inventory system as Java classes
-•	Implemented Comparable<Item> class and created a custom interface class
-•	Utilized a UML diagram to produce the required classes
+- Developed a sample of a merchandising inventory system as Java classes
+- Implemented Comparable<Item> class and created a custom interface class
+- Utilized a UML diagram to produce the required classes
 ### Technologies: Java, IntelliJ, UML
 
 ## Reverse Polish Notation (RPN) Calculator

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-RPN-calculator/java-RPN-calculator.iml" filepath="$PROJECT_DIR$/java-RPN-calculator/java-RPN-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-dfs-and-bfs/java-dfs-and-bfs.iml" filepath="$PROJECT_DIR$/java-dfs-and-bfs/java-dfs-and-bfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-merchandise-inventory-system/java-merchandise-inventory-system.iml" filepath="$PROJECT_DIR$/java-merchandise-inventory-system/java-merchandise-inventory-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-projects-and-assignments.iml" filepath="$PROJECT_DIR$/.idea/java-projects-and-assignments.iml" />
+    </modules>
+  </component>
+</project>

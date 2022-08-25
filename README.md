@@ -4,7 +4,7 @@ A selection of projects I have performed in Java that showcase different topics.
 ## Using the Document Object Model (DOM) API
 - Recreated an XML document representing bookstore inventory using Java's DOM API
 - Utilized object-oriented programming concepts to avoid repetitive actions when creating three books in inventory
-### Technologies
+#### Technologies
 - Java
 - IntelliJ
 - Java DOM API

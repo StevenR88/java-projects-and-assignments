@@ -1,6 +1,11 @@
 # Java-projects-and-assignments
 A selection of projects I have performed in Java that showcase different topics.
 # Project List
+## Using the Document Object Model (DOM) API
+- Recreated an XML document representing bookstore inventory using Java's DOM API
+- Utilized object-oriented programming concepts to avoid repetitive actions when creating three books in inventory
+### Technologies: Java, IntelliJ, Java DOM API, XML
+
 ## Reverse Polish Notation (RPN) Calculator
 - Created a RPN calculator using the concepts of abstraction and inheritance
 - Implemented a custom stack using integer arrays

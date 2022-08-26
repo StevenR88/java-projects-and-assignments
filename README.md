@@ -10,7 +10,7 @@ A selection of projects I have performed in Java that showcase different topics.
 - Created classes to represent characters, dungeon masters and dice
 - Utilizes object-oriented programming to create any DnD character from one character class
 - Utilizes a driver method to run unit testing and play DnD games
-### Notable Concepts: Hashtables
+- Utilized Hashtables for character inventory
 ### Technologies: Java, IntelliJ
 
 ## Reverse Polish Notation (RPN) Calculator

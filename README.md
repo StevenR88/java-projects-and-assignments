@@ -18,9 +18,14 @@ A selection of projects I have performed in Java that showcase different topics.
 - Implemented a custom stack using integer arrays
 ### Technologies: Java, IntelliJ
 
-## Graph Implementation and Traversal
+## java-dfs-and-bfs --> Graph Implementation and Traversal
 - Created classes in Java to implement a graph structure using an adjacency matrix
 - Implemented methods to perform Depth First Search (DFS) and Breadth First Search (BFS)
+### Technologies: Java, IntelliJ
+
+## Search Patterns and Lambdas
+- Utilized Action Design Pattern (Command Pattern) and lambdas to create a search function
+- Search function allows searching for Customer objects through application of lambdas to input criteria
 ### Technologies: Java, IntelliJ
 
 ## Merchandise Inventory System
